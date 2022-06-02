@@ -1,6 +1,6 @@
 
 ###### Artem Rodin
-===
+
 ***
 ## *Contacts:*
 1. Discord: Pivozavr#6381
