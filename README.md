@@ -1,2 +1,2 @@
-https://pivozavrartem.github.io/rsschool-cv/go
+https://pivozavrartem.github.io/rsschool-cv/index.html
 
