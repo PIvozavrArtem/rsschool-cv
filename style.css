@@ -19,7 +19,7 @@ body {
 .container {
     max-width: 1440px;
     margin: 0 auto;
-  }
+      }
   .nav-list {
       display: flex;
       justify-content: flex-end;
@@ -47,8 +47,7 @@ body {
 
 .main-container {
     display: flex;
-    flex-wrap: wrap;  
-    justify-content:end; 
+    flex-wrap: wrap;      
   }
   .section {
       width: 50%;
@@ -70,6 +69,7 @@ body {
       width: 100%;
       justify-content: space-around;
       padding-bottom: 30px;
+      padding-top: 30px;
       border-bottom: 10px solid #26522c;
       
      
@@ -110,3 +110,32 @@ body {
       color:rgb(104, 16, 16)
 
   }
+  #summery {
+      padding-left: 150px;
+  }
+  #code {
+    padding-left: 150px;
+}
+#projects {
+    padding-left: 150px;
+}
+#english {
+    padding-left: 150px;
+}
+.footer {
+    background-color: rgb(120, 172, 173); 
+   
+
+    
+   
+
+}
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+    
+}
+
+
